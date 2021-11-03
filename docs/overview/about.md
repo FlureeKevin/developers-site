@@ -30,8 +30,7 @@ application and can empower a broad range of stakeholders.
 Fluree accepts and persists transactions in an immutable (append-only) ledger. The ledger records
 atomic updates in chronological order and secures them using cryptography - making all data,
 including metadata, timestamps, and identities related to data completely reproducible and
-verifiable. One can optionally decentralize the ledger system to a democratic network via RAFT or
-PBFT consensus mechanisms.
+verifiable. One can optionally decentralize the ledger system to a democratic network via the RAFT consensus mechanism.
 
 ### Graph Database (Indexing and Querying) {#graph-db}
 
