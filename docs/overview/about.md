@@ -42,8 +42,7 @@ data in the language of their choice and in the shape and format of their partic
 
 ### Smart Functions {#smart-functions}
 
-The Fluree system consists of a cryptographically-secure ledger to handle state and a scalable
-semantic graph database to serve queries. Fluree uses SmartFunctions, smart and flexible
+Fluree uses SmartFunctions, smart and flexible
 embedded data policies similar to stored procedures, to enforce rules related to identity and
 access management as well as data shape and quality.
 
